@@ -1,0 +1,16 @@
+
+#box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 100px;
+    background-color: #ccc;
+  }
+  
+  #name {
+    text-align: center;
+    font-size: 16px;
+    margin-top: 40px;
+  }
